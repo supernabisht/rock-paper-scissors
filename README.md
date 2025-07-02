@@ -26,7 +26,8 @@ The computer picks randomly, and you play against it in the terminal!
 ### 📮 Let's Connect
 
 - 🌸 Instagram: [@ethereal.superna](https://instagram.com/ethereal.superna)
-- 💼 LinkedIn: [Superna Bisht](https://www.linkedin.com/in/superna-bisht)
+
+  💼 LinkedIn: [Superna Bisht](https://www.linkedin.com/in/superna-bisht-9680ba335/)
 
 ---
 
